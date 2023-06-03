@@ -4,7 +4,7 @@
 
 The Melanoma Detection App is a web application that utilizes a Convolutional Neural Network (CNN) model trained with the InceptionV3 architecture to detect skin cancer (melanoma) from images. The CNN model is hosted on the Google Cloud Platform backend.
 
-![Screenshot 1](screenshots/screenshot1.jpg) ![Screenshot 2](screenshots/screenshot2.jpg) ![Screenshot 3](screenshots/screenshot3.jpg) ![Screenshot 4](screenshots/screenshot4.jpg) ![Screenshot 5](screenshots/screenshot5.jpg)
+![Screenshot 1](img1.jpg) ![Screenshot 2](img2.jpg) ![Screenshot 3](img3.jpg) ![Screenshot 4](img4.jpg) ![Screenshot 5](img5.jpg)
 
 ## Features
 
